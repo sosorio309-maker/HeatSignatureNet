@@ -14,6 +14,11 @@ Modellvergleich der Arbeit selbst.
 - Masterarbeit (Volltext): https://opus.fhv.at/frontdoor/index/index/docId/7508
 - Autor: Santiago Rojo Osorio -- https://www.linkedin.com/in/srojosorio/
 
+## Danksagung
+
+Dieses Tool ist im Rahmen der oben verlinkten Masterarbeit an der FH Vorarlberg
+entstanden, in Kooperation mit der Energieagentur St. Gallen.
+
 ## Was ist ein PCNN?
 
 Ein Physically Consistent Neural Network kombiniert ein trainierbares neuronales Netz
@@ -154,10 +159,7 @@ pcnn-tool/
 └── requirements.txt
 ```
 
-## Danksagung
 
-Dieses Tool ist im Rahmen der oben verlinkten Masterarbeit an der FH Vorarlberg
-entstanden, in Kooperation mit der Energieagentur St. Gallen.
 
 ## Autor
 
